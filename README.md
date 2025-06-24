@@ -35,6 +35,3 @@ The extracted data is saved to `output.json` in the project directory.
 
 This project can be used as a reference for building other dynamic web scrapers or price-tracking tools using Selenium.
 
-## 📄 License
-
-This project is licensed for educational use only and is not affiliated with OLX.
